@@ -5,3 +5,5 @@ I started this coding project in August, 2024 and you can read more about it on 
 This project is in its early stage and not meant to be seen as a fully functional game quite yet. Because it's far from that...
 
 To see this project live go here: https://tricia-johansson.github.io/Adventures-of-Avoranic/index.html
+
+<i>A shout out to the software Squiffy from textadventures.co.uk which is partly what I use for building this project. Even though I code a lot from scratch I use this software with some of the Javascript.<i>
